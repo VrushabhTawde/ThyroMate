@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663898861723",
+    "project_id": "thyroid-201a8",
+    "storage_bucket": "thyroid-201a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663898861723:android:670b528d3b713b21db163e",
+        "android_client_info": {
+          "package_name": "com.example.thyroidclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663898861723-a774k54o8f7kblklj67m5qrmbl2gcntq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thyroidclass",
+            "certificate_hash": "26fee900d1803e730d6f3021d6dc32a841c4f0ae"
+          }
+        },
+        {
+          "client_id": "663898861723-m6hpb9eogh5go5fgj3psvevtk11iho2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXTxxZ4VUMijaMGZcpObE6pacctmwuI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663898861723-ef1bbevke6cf63n92f1rtrmue10s0vg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

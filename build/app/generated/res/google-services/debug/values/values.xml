@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">663898861723-m6hpb9eogh5go5fgj3psvevtk11iho2i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">663898861723</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrXTxxZ4VUMijaMGZcpObE6pacctmwuI8</string>
+    <string name="google_app_id" translatable="false">1:663898861723:android:670b528d3b713b21db163e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrXTxxZ4VUMijaMGZcpObE6pacctmwuI8</string>
+    <string name="google_storage_bucket" translatable="false">thyroid-201a8.appspot.com</string>
+    <string name="project_id" translatable="false">thyroid-201a8</string>
+</resources>
